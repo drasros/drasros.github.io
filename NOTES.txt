@@ -1,4 +1,0 @@
-good instructions:
-http://beneathdata.com/how-to/how-i-built-this-website/
-
-http://ntanjerome.org/blog/how-to-setup-github-user-page-with-pelican/
